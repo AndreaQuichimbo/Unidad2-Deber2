@@ -39,6 +39,11 @@ Ing. Darwin Omar Alulema Flores
  
 **CAPITULO X**
 
+<div align="center">
+  
+
+</div>
+
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # Problemas Capitulo  IX
