@@ -60,6 +60,14 @@ Ing. Darwin Omar Alulema Flores
 
 5. En el circuito de la ﬁgura 9-79, ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea I  L  5 mA, tal y como se muestra? Veriﬁque los resultados mediante la superposición.
 
+![image](https://user-images.githubusercontent.com/84430867/124211302-7f514b00-dab2-11eb-8d49-1c70cdb182d4.png)
+
+** 9- 2 Teorema de Thévenin **
+
+7. Encuentre el equivalente de Thévenin externo a R L en el circuito de la ﬁgura9-81. Utilice el circuito equivalente para encontrar V ab.
+
+![image](https://user-images.githubusercontent.com/84430867/124211522-d9521080-dab2-11eb-936d-d6f72298af9a.png)
+
 
 
 
