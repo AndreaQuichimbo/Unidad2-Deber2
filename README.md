@@ -48,6 +48,22 @@ Ing. Darwin Omar Alulema Flores
 
 # Problemas Capitulo  IX
 
+** 9-1 Teorema de superposición **
+
+1. Dado el circuito de la ﬁgura 9-75, use la superposición para calcular la corriente a través de cada uno de los restaura.
+
+![image](https://user-images.githubusercontent.com/84430867/124210864-cee34700-dab1-11eb-973e-0b5bf9d63dc8.png)
+
+3. Use la superposición para encontrar el voltaje V a y la corriente I en el circuitode la ﬁgura 9-77.
+
+![image](https://user-images.githubusercontent.com/84430867/124210983-05b95d00-dab2-11eb-9718-b67178800b62.png)
+
+5. En el circuito de la ﬁgura 9-79, ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea I  L  5 mA, tal y como se muestra? Veriﬁque los resultados mediante la superposición.
+
+
+
+
+
 # Problemas Capitulo  X
 
 # 4. VIDEO
