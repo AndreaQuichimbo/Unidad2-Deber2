@@ -68,6 +68,64 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84430867/124211522-d9521080-dab2-11eb-936d-d6f72298af9a.png)
 
+9. Repita el problema 7 para el circuito de la ﬁgura 9-83.
+
+![image](https://user-images.githubusercontent.com/84430867/124218618-30aaad80-dac0-11eb-9dcf-584a81419b7f.png)
+
+11. Vea el circuito de la ﬁgura 9-85: 
+
+A. Encuentre el circuito equivalente de Thévenin externo a R L.
+
+B. Utilice el circuito equivalente para determinar V ab cuando R L  20  y cuando R L  50 
+
+![image](https://user-images.githubusercontent.com/84430867/124219023-0e655f80-dac1-11eb-9364-3d314afbaca5.png)
+
+13. Vea el circuito a de la ﬁgura 9-87:
+
+A. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
+
+B. Use el circuito equivalente de Thévenin para de terminar la corriente a través de las ramas indicadas.
+
+![image](https://user-images.githubusercontent.com/84430867/124219483-1245b180-dac2-11eb-86b8-248916f10320.png)
+
+15. Vea el circuito de la ﬁgura 9-89:
+
+A. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+
+B. Use el circuito equivalente de Thévenin para de terminar la corriente a través de las ramas que se indican.
+
+![image](https://user-images.githubusercontent.com/84430867/124220120-fb538f00-dac2-11eb-9211-46f1f0d8179c.png)
+
+17. Vea el circuito de la ﬁgura 9-91:
+
+A. Encuentre el circuito equivalente de THEV enin externo una R L.
+
+B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I cuando R L  0,10 k  y 50 k .
+
+![image](https://user-images.githubusercontent.com/84430867/124221142-bfb9c480-dac4-11eb-87f9-cc2ec13d2f69.png)
+
+19. Repita el problema 17 para el circuito de la ﬁgura 9-93.
+
+![image](https://user-images.githubusercontent.com/84430867/124221502-83d32f00-dac5-11eb-88f1-6a9cc5e44817.png)
+
+21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramasque se indican, como se muestra en la ﬁgura 9-95.
+
+![image](https://user-images.githubusercontent.com/84430867/124222242-fb558e00-dac6-11eb-8032-1a50db3966ea.png)
+
+23. Repita el problema 22 para el circuito de la ﬁgura 9-97.
+
+![image](https://user-images.githubusercontent.com/84430867/124222530-88004c00-dac7-11eb-86c7-b57b67b216f1.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
