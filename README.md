@@ -22,7 +22,7 @@ Ing. Darwin Omar Alulema Flores
 
 # INFORME DE LA TAREA N°2
 
-# CAPITULO IX y x 
+# CAPITULO IX y X
   
 </div>
 
