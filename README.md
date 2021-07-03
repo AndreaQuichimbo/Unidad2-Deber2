@@ -116,11 +116,39 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 
 ![image](https://user-images.githubusercontent.com/84430867/124222530-88004c00-dac7-11eb-86c7-b57b67b216f1.png)
 
+** 9-3 Teorema de Norton **
+
+25. Encuentre el circuito equivalente de Norton externo a R L en el circuito de la ﬁgura 9-81. Use el circuito equivalente para encontrar I  L para el circuito.
+
+![image](https://user-images.githubusercontent.com/84430867/124342933-62d61100-db8d-11eb-9bef-fc7c8b7c303c.png)
+
+27. Repita el problema 25 para el circuito de la ﬁgura 9-83.
+
+![image](https://user-images.githubusercontent.com/84430867/124343635-a2ebc280-db92-11eb-852a-aa5e9cb37508.png)
 
 
+29. Vea el circuito de la ﬁgura 9-85:
 
+a. Encuentre el circuito equivalente de Norton externo a R L.
 
+b. Use el circuito equivalente para determinar I  L cuando R L 20 k  ycuando R L 50 k .
 
+![image](https://user-images.githubusercontent.com/84430867/124343646-b8f98300-db92-11eb-8bab-d0bd308dd127.png)
+
+31. 
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la ﬁgura 9-87.
+
+b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
+
+![image](https://user-images.githubusercontent.com/84430867/124343653-cb73bc80-db92-11eb-907a-1271fbab8ada.png)
+
+33. Repita el problema 31 para el circuito de la ﬁgura 9-91.
+
+![image](https://user-images.githubusercontent.com/84430867/124343662-e1817d00-db92-11eb-9db2-2dcf9b255283.png)
+
+35. Repita el problema 31 para el circuito de la ﬁgura 9-95.
+
+![image](https://user-images.githubusercontent.com/84430867/124343678-0d9cfe00-db93-11eb-83e6-51146fac3317.png)
 
 
 
