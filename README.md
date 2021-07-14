@@ -97,7 +97,7 @@ Ing. Darwin Omar Alulema Flores
 
 A. Encuentre el circuito equivalente de Thévenin externo a R L.
 
-B. Utilice el circuito equivalente para determinar V ab cuando R L  20  y cuando R L  50 
+B. Utilice el circuito equivalente para determinar V ab cuando RL = 20 Ω y cuando RL = 50 Ω
 
 <div align="center">
   
@@ -167,7 +167,7 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 
 **9-3 Teorema de Norton**
 
-25. Encuentre el circuito equivalente de Norton externo a R L en el circuito de la ﬁgura 9-81. Use el circuito equivalente para encontrar I  L para el circuito.
+25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la ﬁgura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
 <div align="center">
   
@@ -187,7 +187,7 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 
 a. Encuentre el circuito equivalente de Norton externo a R L.
 
-b. Use el circuito equivalente para determinar I  L cuando R L 20 k  ycuando R L 50 k .
+b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ ycuando RL = 50 kΩ.
 
 <div align="center">
   
