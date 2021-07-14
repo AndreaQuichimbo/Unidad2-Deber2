@@ -77,7 +77,7 @@ Ing. Darwin Omar Alulema Flores
 
 **9- 2 Teorema de Thévenin**
 
-7. Encuentre el equivalente de Thévenin externo a R L en el circuito de la ﬁgura9-81. Utilice el circuito equivalente para encontrar V ab.
+7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la ﬁgura 9-81. Utilice el circuito equivalente para encontrar Vab.
 
 <div align="center">
 
