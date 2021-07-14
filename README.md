@@ -51,7 +51,7 @@ Ing. Darwin Omar Alulema Flores
 
 **9-1 Teorema de superposición**
 
-1. Dado el circuito de la ﬁgura 9-75, use la superposición para calcular la corriente a través de cada uno de los restaura.
+1. Dado el circuito de la ﬁgura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
 
 <div align="center">
   
