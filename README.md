@@ -230,3 +230,5 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 # 5. CONCLUSIONES
 
 # 6. BIBLIOGRAFÍAS
+
+Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
