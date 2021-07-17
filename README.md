@@ -47,6 +47,8 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84430867/126018105-010ce19c-7ec0-43de-abfc-92fc2f312b13.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126025238-e3229515-d593-4a08-a2da-f560ab8b4735.png)
+
 </div>
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
