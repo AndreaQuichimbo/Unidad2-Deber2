@@ -233,6 +233,48 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 # Problemas Capitulo  X
 
+** 10-4 Dieléctricos **
+
+15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V,¿cuál es el valor de E ?
+
+19. La ﬁgura 10-32 muestra varios espaciamientos,entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un parde puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa,¿qué espaciamiento sufre ruptura en cada caso?
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/126055447-65309675-2365-47a8-b336-581087652bd4.png)
+
+</div>
+
+** 10-5 Efectos no ideales ** 
+
+21. Un capacitor de 25  F tiene un coeﬁciente de temperatura negativo de 175ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura au-menta a 50ºC? ¿Cuál será el nuevo valor?
+
+** 10-7 Capacitores en paralelo y en serie **
+
+23. ¿Cuál es la capacitancia equivalente de 10,12,22 y 33  F conectados en paralelo?
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+27. Determine C T para cada uno de los circuitos de la ﬁgura 10-33.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/126055538-67fc638b-1dea-40d9-a8f7-24191a7ed46c.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126055591-3dfd638f-5b91-417b-9824-9a0b0bfff454.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126055614-21338852-5628-40f5-ba5c-a331fbbccb46.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126055620-545663d1-4d2f-40ec-bd36-ed5bb8cdb5a2.png)
+
+</div>
+
+
+
+
+
 # 4. VIDEO
 
 # 5. CONCLUSIONES
