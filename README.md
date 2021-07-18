@@ -271,8 +271,45 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
+29. Un capacitor de 30  F se conecta en paralelo con un capacitor de 60  F, y otro de 10  F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de C T?
 
+31. Para la ﬁgura 10-36, determine C 3 y C 4.
 
+![image](https://user-images.githubusercontent.com/84430867/126055812-32538302-ca8c-447f-ace2-c48081b1298e.png)
+
+33. Se tienen capacitores de 22,47,2.2 y 10  F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted preﬁera?,¿y la más pequeña?
+
+35. Considere capacitores de 1,1.5 y 10  F. Si C T  10-6  F,¿cómo están conectados los capacitores?
+
+![image](https://user-images.githubusercontent.com/84430867/126056091-67d7e3fb-4e6f-4fb0-9110-0108d34bb3c1.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126056097-fcfafa1e-446d-408c-882f-fe7154ac5188.png)
+
+37. Para las ﬁguras 10-33 (c) y (d),encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+
+![image](https://user-images.githubusercontent.com/84430867/126056317-bb1afdab-1c48-4741-b3af-bb52e73bdc7a.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126056347-5670477a-0d0c-4368-af82-d4ae9c635813.png)
+
+39. Repita el problema 38 para el circuito de la ﬁgura 10-39.
+
+![image](https://user-images.githubusercontent.com/84430867/126056447-4ddfeb18-1080-4703-bed8-e30a8d816748.png)
+
+41.Para la ﬁgura 10-41, determine C x 
+
+![image](https://user-images.githubusercontent.com/84430867/126056697-8d8066fe-16db-4e0c-bb72-dbbfb01d5b98.png)
+
+**10-8Corriente y voltaje en el capacitor**
+
+43.El voltaje en el capacitor de la ﬁgura 10-42(a) se muestra en (b). Dibuje la corriente iCa escala con valores numéricos.
+
+![image](https://user-images.githubusercontent.com/84430867/126056726-ffb3547e-39bc-46d5-b3ae-7b732b7b87b4.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126056738-2bdf36e3-5bd2-444d-b6ed-bb357a992861.png)
+
+**10-10Fallas en el capacitor y solución de problemas**
+
+49. Para cada caso mostrado en la ﬁgura 10-44,¿cuál es la falla más probable?
 
 
 # 4. VIDEO
