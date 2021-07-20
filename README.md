@@ -257,7 +257,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 25. Repita el problema 23 si los capacitores están conectados en serie.
 
-27. Determine C T para cada uno de los circuitos de la ﬁgura 10-33.
+277. Determine C T para cada uno de los circuitos de la ﬁgura 10-33.
 
 <div align="center">
 
