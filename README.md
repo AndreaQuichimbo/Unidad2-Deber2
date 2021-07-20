@@ -269,15 +269,23 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/84430867/126055620-545663d1-4d2f-40ec-bd36-ed5bb8cdb5a2.png)
 
+![image](https://user-images.githubusercontent.com/84587293/126367462-62e3954d-5e92-4d52-ae52-c0bc21ad1e20.png)
+
 </div>
 
 29. Un capacitor de 30  F se conecta en paralelo con un capacitor de 60  F, y otro de 10  F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de C T?
+
+![image](https://user-images.githubusercontent.com/84587293/126367604-4ce67a87-d65d-40fe-a881-af4ce92e65a8.png)
 
 31. Para la ﬁgura 10-36, determine C 3 y C 4.
 
 ![image](https://user-images.githubusercontent.com/84430867/126055812-32538302-ca8c-447f-ace2-c48081b1298e.png)
 
+![image](https://user-images.githubusercontent.com/84587293/126367944-3f0a4e7e-bc10-4416-bb91-cacda2e2cba9.png)
+
 33. Se tienen capacitores de 22,47,2.2 y 10  F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted preﬁera?,¿y la más pequeña?
+
+![image](https://user-images.githubusercontent.com/84587293/126368299-2050e2b0-c62a-41f9-8c20-274a0c1dc83f.png)
 
 35. Considere capacitores de 1,1.5 y 10  F. Si C T  10-6  F,¿cómo están conectados los capacitores?
 
