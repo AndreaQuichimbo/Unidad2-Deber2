@@ -287,11 +287,9 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/84587293/126368299-2050e2b0-c62a-41f9-8c20-274a0c1dc83f.png)
 
-35. Considere capacitores de 1,1.5 y 10  F. Si C T  10-6  F,¿cómo están conectados los capacitores?
+35. Considere capacitores de 1,1.5 y 10 µF. Si C T  10-6  µF,¿cómo están conectados los capacitores?
 
-![image](https://user-images.githubusercontent.com/84430867/126056091-67d7e3fb-4e6f-4fb0-9110-0108d34bb3c1.png)
-
-![image](https://user-images.githubusercontent.com/84430867/126056097-fcfafa1e-446d-408c-882f-fe7154ac5188.png)
+![image](https://user-images.githubusercontent.com/84587293/126369441-d2ef1a5f-1bd3-427e-897b-7c048e1ca2e0.png)
 
 37. Para las ﬁguras 10-33 (c) y (d),encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
 
