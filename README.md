@@ -255,7 +255,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 23. ¿Cuál es la capacitancia equivalente de 10,12,22 y 33  F conectados en paralelo?
 
-25. Repita el problema 23 si los capacitores están conectados en serie.
+
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
