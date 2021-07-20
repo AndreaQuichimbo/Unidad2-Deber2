@@ -293,17 +293,21 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 37. Para las ﬁguras 10-33 (c) y (d),encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
 
-![image](https://user-images.githubusercontent.com/84430867/126056317-bb1afdab-1c48-4741-b3af-bb52e73bdc7a.png)
+![image](https://user-images.githubusercontent.com/84587293/126372621-7128db23-fb98-46c0-a61a-44b9caa9d40a.png)
 
-![image](https://user-images.githubusercontent.com/84430867/126056347-5670477a-0d0c-4368-af82-d4ae9c635813.png)
+![image](https://user-images.githubusercontent.com/84587293/126372766-56fed1ee-cb66-416f-8a60-6f71b8170e5f.png)
 
 39. Repita el problema 38 para el circuito de la ﬁgura 10-39.
 
 ![image](https://user-images.githubusercontent.com/84430867/126056447-4ddfeb18-1080-4703-bed8-e30a8d816748.png)
 
+![image](https://user-images.githubusercontent.com/84587293/126372890-c03d1c3f-2f7a-4c9a-960c-af878dea247f.png)
+
 41.Para la ﬁgura 10-41, determine C x 
 
 ![image](https://user-images.githubusercontent.com/84430867/126056697-8d8066fe-16db-4e0c-bb72-dbbfb01d5b98.png)
+
+![image](https://user-images.githubusercontent.com/84587293/126372976-eaec8cc5-4071-4d98-a7c4-c166c4138f01.png)
 
 **10-8Corriente y voltaje en el capacitor**
 
