@@ -317,9 +317,27 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/84430867/126056738-2bdf36e3-5bd2-444d-b6ed-bb357a992861.png)
 
+![image](https://user-images.githubusercontent.com/84587293/126373387-73dc04b1-48b2-461f-b2bd-7bbd21c2d40a.png)
+
+![image](https://user-images.githubusercontent.com/84587293/126373411-1ad93f81-1afb-4675-a59b-60000b5f2fc1.png)
+
 **10-10Fallas en el capacitor y solución de problemas**
 
+45. Si el voltaje en un capacitor de 4.7 µF es vc = 100e∧(-0.05t) V, ¿qué valor tiene ic?
+
+![image](https://user-images.githubusercontent.com/84587293/126373536-82d74ffe-3def-4d76-b119-b6528ba31e2c.png)
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms. 
+
+![image](https://user-images.githubusercontent.com/84587293/126373613-4d22e23d-cc9b-40ed-950a-4375cf0295bd.png)
+
+![image](https://user-images.githubusercontent.com/84587293/126373708-386c2166-f66f-4507-8c60-baf9813381b5.png)
+
 49. Para cada caso mostrado en la ﬁgura 10-44,¿cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/84587293/126373774-57158510-e5d2-43d6-a5f6-645f298491d7.png)
+
+![image](https://user-images.githubusercontent.com/84587293/126373797-ea9b89c7-2752-4e81-b008-56f65b04aa7c.png)
 
 
 # 4. VIDEO
