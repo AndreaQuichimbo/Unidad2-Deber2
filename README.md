@@ -233,7 +233,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 # Problemas Capitulo  X
 
-** 10-4 Dieléctricos **
+**10-4 Dieléctricos**
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
@@ -247,11 +247,11 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
-** 10-5 Efectos no ideales ** 
+**10-5 Efectos no ideales** 
 
 21. Un capacitor de 25  F tiene un coeﬁciente de temperatura negativo de 175ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura au-menta a 50ºC? ¿Cuál será el nuevo valor?
 
-** 10-7 Capacitores en paralelo y en serie **
+**10-7 Capacitores en paralelo y en serie**
 
 23. ¿Cuál es la capacitancia equivalente de 10,12,22 y 33  F conectados en paralelo?
 
