@@ -257,21 +257,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 
 
-27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/126055538-67fc638b-1dea-40d9-a8f7-24191a7ed46c.png)
-
-![image](https://user-images.githubusercontent.com/84430867/126055591-3dfd638f-5b91-417b-9824-9a0b0bfff454.png)
-
-![image](https://user-images.githubusercontent.com/84430867/126055614-21338852-5628-40f5-ba5c-a331fbbccb46.png)
-
-![image](https://user-images.githubusercontent.com/84430867/126055620-545663d1-4d2f-40ec-bd36-ed5bb8cdb5a2.png)
-
-![image](https://user-images.githubusercontent.com/84587293/126367462-62e3954d-5e92-4d52-ae52-c0bc21ad1e20.png)
-
-</div>
 
 29. Un capacitor de 30  F se conecta en paralelo con un capacitor de 60  F, y otro de 10  F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de C T?
 
