@@ -350,6 +350,12 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 21. Un capacitor de 25 µF tiene un coeficiente de temperatura negativo de 175 ppm/°C. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50°C? ¿Cuál será el nuevo valor?
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/126557618-2a85d654-a61c-4228-8cd0-67199326086c.png)
+
+</div>  
+  
 **10-7 Capacitores en paralelo y en serie**
 
 23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
