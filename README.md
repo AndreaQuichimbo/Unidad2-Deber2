@@ -33,7 +33,8 @@ Ing. Darwin Omar Alulema Flores
 **CAPITULO IX**
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84587172/126422143-b28e1408-22c5-42f4-8931-56f265bb74da.png)  
 
 </div>
  
