@@ -264,6 +264,15 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
   
   
 </div>
+
+39.- 
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587172/126562292-b64abb02-52f6-4c7e-a56c-a571a7773345.png)
+
+</div>
+  
   
 **9.6 Teorema de Millman.**
 
