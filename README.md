@@ -329,7 +329,6 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 **10-4 Dieléctricos**
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
-16.
 
 ![image](https://user-images.githubusercontent.com/84587293/126417096-963db4d1-e651-4e15-8114-667f8f925ccf.png)
 
