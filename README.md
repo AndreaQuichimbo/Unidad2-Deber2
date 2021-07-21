@@ -247,19 +247,25 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/126055447-65309675-2365-47a8-b336-581087652bd4.png)
+![image](https://user-images.githubusercontent.com/84587293/126417281-b90ea60e-d049-472c-8e39-43801afb1479.png)
 
-
+![image](https://user-images.githubusercontent.com/84587293/126417298-5e29289f-e8a7-4bac-b8d8-a72b43d4c2c6.png)
   
 </div>
 
 **10-5 Efectos no ideales** 
 
-21. Un capacitor de 25  F tiene un coeﬁciente de temperatura negativo de 175ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura au-menta a 50ºC? ¿Cuál será el nuevo valor?
+21. Un capacitor de 25 µF tiene un coeficiente de temperatura negativo de 175 ppm/°C. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50°C? ¿Cuál será el nuevo valor?
 
 **10-7 Capacitores en paralelo y en serie**
 
 23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
+
+![image](https://user-images.githubusercontent.com/84587293/126417442-d93fca28-d1ca-4764-a690-c5d4f45e80bf.png)
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+![image](https://user-images.githubusercontent.com/84587293/126417483-05ce4402-7a66-402a-8b8b-8c96fa3a2a5a.png)
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
