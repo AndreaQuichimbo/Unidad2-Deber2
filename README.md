@@ -273,6 +273,14 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![4](https://user-images.githubusercontent.com/84587172/126438157-0b4a56ec-b81f-48c3-89d1-47cf8510987f.png)
 
 </div>
+
+3.- La carga en un capacitor de 50 uF es de 10 x 10-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+<div align="center">
+
+![5](https://user-images.githubusercontent.com/84587172/126438341-a3f498cf-384d-473b-a64f-6072028f4b22.png)
+
+</div>
   
 **10-4 Dieléctricos**
 
