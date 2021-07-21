@@ -281,7 +281,17 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![5](https://user-images.githubusercontent.com/84587172/126438341-a3f498cf-384d-473b-a64f-6072028f4b22.png)
 
 </div>
-  
+
+5.- Se carga un capacitor de 5 uF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V ¿Cuál es la carga final de capacitor?
+
+<div align="center">
+
+![6](https://user-images.githubusercontent.com/84587172/126438492-3a044c38-878c-40c7-bf0f-f22b79d9ace9.png)
+
+</div>
+ 
+**10-2. Factores que afectan la capacitancia**
+
 **10-4 Dieléctricos**
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
