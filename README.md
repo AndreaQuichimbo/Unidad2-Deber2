@@ -330,12 +330,20 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/126417096-963db4d1-e651-4e15-8114-667f8f925ccf.png)
 
+</div>
+  
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V,¿cuál es el valor de E ?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126417180-b874f9ea-00f9-419c-8c19-dccd62c93ed5.png)
 
+</div>
+  
 19. La ﬁgura 10-32 muestra varios espaciamientos,entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un parde puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa,¿qué espaciamiento sufre ruptura en cada caso?
 
 <div align="center">
@@ -360,57 +368,99 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/126417442-d93fca28-d1ca-4764-a690-c5d4f45e80bf.png)
 
+</div>    
+  
 25. Repita el problema 23 si los capacitores están conectados en serie.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126417483-05ce4402-7a66-402a-8b8b-8c96fa3a2a5a.png)
 
+</div>    
+  
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126375343-e17a5c50-8d8d-4b12-8314-a5eaebb2c14b.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126375403-062458c6-1572-4be3-88b5-8e306ea92469.png)
+  
+</div>    
 
 29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/126367604-4ce67a87-d65d-40fe-a881-af4ce92e65a8.png)
 
+</div>    
+  
 31. Para la ﬁgura 10-36, determine C 3 y C 4.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126055812-32538302-ca8c-447f-ace2-c48081b1298e.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126367944-3f0a4e7e-bc10-4416-bb91-cacda2e2cba9.png)
 
+</div>    
+  
 33. Se tienen capacitores de 22,47,2.2 y 10  F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted preﬁera?,¿y la más pequeña?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126368299-2050e2b0-c62a-41f9-8c20-274a0c1dc83f.png)
 
+</div>    
+  
 35. Considere capacitores de 1,1.5 y 10 µF. Si C T  10-6  µF,¿cómo están conectados los capacitores?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126369441-d2ef1a5f-1bd3-427e-897b-7c048e1ca2e0.png)
 
+</div>  
+
 37. Para las ﬁguras 10-33 (c) y (d),encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126372621-7128db23-fb98-46c0-a61a-44b9caa9d40a.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126372766-56fed1ee-cb66-416f-8a60-6f71b8170e5f.png)
 
+</div>    
+  
 39. Repita el problema 38 para el circuito de la ﬁgura 10-39.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/126056447-4ddfeb18-1080-4703-bed8-e30a8d816748.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126372890-c03d1c3f-2f7a-4c9a-960c-af878dea247f.png)
 
+</div>  
+
 41.Para la ﬁgura 10-41, determine C x 
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126056697-8d8066fe-16db-4e0c-bb72-dbbfb01d5b98.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126372976-eaec8cc5-4071-4d98-a7c4-c166c4138f01.png)
 
+</div>    
+  
 **10-8Corriente y voltaje en el capacitor**
 
 43.El voltaje en el capacitor de la ﬁgura 10-42(a) se muestra en (b). Dibuje la corriente iCa escala con valores numéricos.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126056726-ffb3547e-39bc-46d5-b3ae-7b732b7b87b4.png)
 
@@ -419,25 +469,38 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![image](https://user-images.githubusercontent.com/84587293/126373387-73dc04b1-48b2-461f-b2bd-7bbd21c2d40a.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126373411-1ad93f81-1afb-4675-a59b-60000b5f2fc1.png)
+  
+</div>    
 
 **10-10Fallas en el capacitor y solución de problemas**
 
 45. Si el voltaje en un capacitor de 4.7 µF es vc = 100e∧(-0.05t) V, ¿qué valor tiene ic?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/126373536-82d74ffe-3def-4d76-b119-b6528ba31e2c.png)
+  
+</div>    
 
 47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms. 
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126373613-4d22e23d-cc9b-40ed-950a-4375cf0295bd.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126373708-386c2166-f66f-4507-8c60-baf9813381b5.png)
 
+</div>  
+  
 49. Para cada caso mostrado en la ﬁgura 10-44,¿cuál es la falla más probable?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/126373774-57158510-e5d2-43d6-a5f6-645f298491d7.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/126373797-ea9b89c7-2752-4e81-b008-56f65b04aa7c.png)
 
+</div>  
 
 # 4. VIDEO
 
