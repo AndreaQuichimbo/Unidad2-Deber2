@@ -262,6 +262,18 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
   
 # Problemas Capitulo  X
 
+**10.1 Capacitancia.**
+
+1.- Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los incisos: 
+
+<div align="center">
+
+![3](https://user-images.githubusercontent.com/84587172/126438153-804d0220-7f1e-460d-b24a-d56e33871b2b.png)
+
+![4](https://user-images.githubusercontent.com/84587172/126438157-0b4a56ec-b81f-48c3-89d1-47cf8510987f.png)
+
+</div>
+  
 **10-4 Dieléctricos**
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
