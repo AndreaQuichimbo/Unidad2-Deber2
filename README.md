@@ -292,9 +292,26 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
  
 **10-2. Factores que afectan la capacitancia**
 
+7.- Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones de 1cm x 1.5cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+<div align="center">
+
+![7](https://user-images.githubusercontent.com/84587172/126438719-de48ea77-5874-4d25-9436-445467bd0498.png)
+
+</div>
+
+9.- La capacitancia de un capacitor lleno de aceite es de 200pF. Si la separación entre las placas es de 0.1 mm, ¿Cuál es el área de las placas? 
+
+<div align="center">
+
+![8](https://user-images.githubusercontent.com/84587172/126438802-19849ddf-cb51-4b69-a636-7cd37baf9605.png)
+
+</div>
+
 **10-4 Dieléctricos**
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+16.
 
 ![image](https://user-images.githubusercontent.com/84587293/126417096-963db4d1-e651-4e15-8114-667f8f925ccf.png)
 
