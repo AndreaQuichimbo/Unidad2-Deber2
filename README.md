@@ -242,7 +242,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
-9.6 Teorema de Millman.
+**9.6 Teorema de Millman.**
 
 45.- Use el teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
 
@@ -252,6 +252,14 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
+47.- Repita el problema 45 para el circuito de la figura 9-104
+
+<div align="center">
+
+![2](https://user-images.githubusercontent.com/84587172/126437925-fc7360d1-6af0-48c0-b144-8b2688685113.png)
+
+</div>
+  
 # Problemas Capitulo  X
 
 **10-4 Dieléctricos**
