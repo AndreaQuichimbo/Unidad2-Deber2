@@ -120,13 +120,11 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/124218618-30aaad80-dac0-11eb-9dcf-584a81419b7f.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126563927-b7474458-8717-4af0-89e6-9e9b1e84d689.png)
+
 </div>
 
 11. Vea el circuito de la ﬁgura 9-85: 
-
-A. Encuentre el circuito equivalente de Thévenin externo a R L.
-
-B. Utilice el circuito equivalente para determinar V ab cuando RL = 20 Ω y cuando RL = 50 Ω
 
 <div align="center">
   
@@ -134,7 +132,29 @@ B. Utilice el circuito equivalente para determinar V ab cuando RL = 20 Ω y cuan
 
 </div>
 
+A. Encuentre el circuito equivalente de Thévenin externo a R L.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/126564248-840bf0df-fc79-4a3a-95a3-b97cbd8310d5.png)
+
+</div>
+  
+B. Utilice el circuito equivalente para determinar V ab cuando RL = 20 Ω y cuando RL = 50 Ω
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/126564400-86716ccf-ab28-4726-8813-60a83c2ea49b.png)
+
+</div>
+
 13. Vea el circuito a de la ﬁgura 9-87:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/124219483-1245b180-dac2-11eb-86b8-248916f10320.png)
+
+</div>
 
 A. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
 
@@ -142,7 +162,7 @@ B. Use el circuito equivalente de Thévenin para de terminar la corriente a trav
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/124219483-1245b180-dac2-11eb-86b8-248916f10320.png)
+![image](https://user-images.githubusercontent.com/84430867/126566718-c160751f-3de2-4958-bca5-33bfe2211228.png)
 
 </div>
 
@@ -250,42 +270,6 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
-**9.4. Teorema de transferencia de máxima potencia**
-
-37.-
-
-<div align="center">
-
- ![image](https://user-images.githubusercontent.com/84587172/126564135-a4d64628-a752-4ec9-a183-2dc039961370.png)
-
-![1](https://user-images.githubusercontent.com/84587172/126564154-ad566ac8-86bc-4870-b049-20ef0dd18e17.png)
-
-![2](https://user-images.githubusercontent.com/84587172/126564161-bdae806b-0321-4a95-9a1f-7961fa9056e7.png)
-  
-</div>
-  
-39.- 
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84587172/126564225-a62bc948-4a1f-4a25-9916-336a6f0ff04d.png)
-
-![3](https://user-images.githubusercontent.com/84587172/126564234-7dd22d9b-c4d9-4b43-ae87-6ac9eb3b096a.png)
-
-</div>
-
-43- Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 Ω, determine la magnitud y la polaridad de la fuente de voltaje resultante.
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84587172/126566412-3073f041-0531-4341-9a4c-05462908c8c0.png)
-
-![4](https://user-images.githubusercontent.com/84587172/126566420-dca4f4c9-b7f6-46bb-bd8a-b7a11f86fd64.png)
-
-![5](https://user-images.githubusercontent.com/84587172/126566424-b996dcc3-3001-485e-9890-9d36103f8a8e.png)
-
-</div>
-
 **9.6 Teorema de Millman.**
 
 45.- Use el teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
@@ -303,20 +287,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![2](https://user-images.githubusercontent.com/84587172/126437925-fc7360d1-6af0-48c0-b144-8b2688685113.png)
 
 </div>
-
-**9-7 Teorema de reciprocidad**
-
-49-
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84587172/126567749-db1c68ea-687e-48b5-80f4-ba8efa20529b.png)
-
- ![6](https://user-images.githubusercontent.com/84587172/126567783-ee9c92ce-36a1-427f-8bd8-6a77d7b7b20b.png) 
   
-</div>
-  
-
 # Problemas Capitulo  X
 
 **10.1 Capacitancia.**
