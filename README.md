@@ -78,6 +78,8 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/124210864-cee34700-dab1-11eb-973e-0b5bf9d63dc8.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126561204-a0fea1bf-6a42-4a10-afb1-ba73d2434d90.png)
+
 </div>
 
 3. Use la superposición para encontrar el voltaje V a y la corriente I en el circuitode la ﬁgura 9-77.
@@ -86,6 +88,8 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/124210983-05b95d00-dab2-11eb-9718-b67178800b62.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126561292-70bb5b33-56f7-46a5-88c5-076f8780e17e.png)
+
 </div>
 
 5. En el circuito de la ﬁgura 9-79, ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea I  L  5 mA, tal y como se muestra? Veriﬁque los resultados mediante la superposición.
@@ -93,6 +97,8 @@ Ing. Darwin Omar Alulema Flores
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/124211302-7f514b00-dab2-11eb-8d49-1c70cdb182d4.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126561391-efb561e0-3023-4ab8-936d-799629ddfcfa.png)
 
 </div>
 
@@ -103,6 +109,8 @@ Ing. Darwin Omar Alulema Flores
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/124211522-d9521080-dab2-11eb-936d-d6f72298af9a.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126561503-1b3982d1-cee6-4f78-ba85-fd86683270dc.png)
 
 </div>
 
