@@ -288,10 +288,22 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
-51.- 
+**9-7 Teorema de reciprocidad**
+
+49-
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84587172/126570694-a14dc63d-fa6e-4c88-b5e9-088d5089a8cb.png)
+
+![2](https://user-images.githubusercontent.com/84587172/126570702-a7986a76-daa9-4962-a118-e97e48ba9cea.png)
+
+</div>
+  
+  
+51.- 
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/126570546-1cdfcd36-7a06-41a7-a22a-aa610c53bbb1.png)
 
