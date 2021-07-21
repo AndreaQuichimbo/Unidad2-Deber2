@@ -287,8 +287,20 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![2](https://user-images.githubusercontent.com/84587172/126437925-fc7360d1-6af0-48c0-b144-8b2688685113.png)
 
 </div>
+
+51.- 
+
+<div align="center">
+
+
+![image](https://user-images.githubusercontent.com/84587172/126570546-1cdfcd36-7a06-41a7-a22a-aa610c53bbb1.png)
+
+![1](https://user-images.githubusercontent.com/84587172/126570601-cb0d6079-bef8-4320-827b-a3b9ffc43bf4.png)
+
+</div>
   
-# Problemas Capitulo  X
+  
+# Problemas Capitulo X
 
 **10.1 Capacitancia.**
 
