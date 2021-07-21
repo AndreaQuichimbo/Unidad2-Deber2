@@ -303,7 +303,20 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![2](https://user-images.githubusercontent.com/84587172/126437925-fc7360d1-6af0-48c0-b144-8b2688685113.png)
 
 </div>
+
+**9-7 Teorema de reciprocidad**
+
+49-
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587172/126567749-db1c68ea-687e-48b5-80f4-ba8efa20529b.png)
+
+ ![6](https://user-images.githubusercontent.com/84587172/126567783-ee9c92ce-36a1-427f-8bd8-6a77d7b7b20b.png) 
   
+</div>
+  
+
 # Problemas Capitulo  X
 
 **10.1 Capacitancia.**
