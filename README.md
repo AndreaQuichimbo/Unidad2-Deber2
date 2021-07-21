@@ -237,7 +237,11 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
+![image](https://user-images.githubusercontent.com/84587293/126417096-963db4d1-e651-4e15-8114-667f8f925ccf.png)
+
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V,¿cuál es el valor de E ?
+
+![image](https://user-images.githubusercontent.com/84587293/126417180-b874f9ea-00f9-419c-8c19-dccd62c93ed5.png)
 
 19. La ﬁgura 10-32 muestra varios espaciamientos,entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un parde puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa,¿qué espaciamiento sufre ruptura en cada caso?
 
@@ -245,6 +249,8 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/84430867/126055447-65309675-2365-47a8-b336-581087652bd4.png)
 
+
+  
 </div>
 
 **10-5 Efectos no ideales** 
