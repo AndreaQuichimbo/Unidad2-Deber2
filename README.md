@@ -250,6 +250,30 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
+**9.4. Teorema de transferencia de máxima potencia**
+
+37.-
+
+<div align="center">
+
+ ![image](https://user-images.githubusercontent.com/84587172/126564135-a4d64628-a752-4ec9-a183-2dc039961370.png)
+
+![1](https://user-images.githubusercontent.com/84587172/126564154-ad566ac8-86bc-4870-b049-20ef0dd18e17.png)
+
+![2](https://user-images.githubusercontent.com/84587172/126564161-bdae806b-0321-4a95-9a1f-7961fa9056e7.png)
+  
+</div>
+  
+39.- 
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587172/126564225-a62bc948-4a1f-4a25-9916-336a6f0ff04d.png)
+
+![3](https://user-images.githubusercontent.com/84587172/126564234-7dd22d9b-c4d9-4b43-ae87-6ac9eb3b096a.png)
+
+</div>
+
 **9.6 Teorema de Millman.**
 
 45.- Use el teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
