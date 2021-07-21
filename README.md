@@ -308,6 +308,24 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
 
+11.- Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 uF. Un segundo capacitor con dimensiones físicas idénticas pero con un dieléctrico de mylar lleva una carga de 55 x 10-4 C. ¿Cuál es su voltaje?
+
+<div align="center">
+
+![9](https://user-images.githubusercontent.com/84587172/126439042-8a10b712-38df-4ba8-bfa2-0c5ef3133d78.png)
+
+</div>
+
+**10.3 Campos eléctricos.**
+
+13.- a. ¿Cuál es la intensidad del campo eléctrico ℰ a una distancia de 1cm de una carga de 100mC en aceite?
+
+<div align="center">
+
+![10](https://user-images.githubusercontent.com/84587172/126439190-f7659cd7-84f0-47ac-8f08-f7c049318270.png)
+
+</div>
+  
 **10-4 Dieléctricos**
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
