@@ -272,6 +272,8 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
   
 ![image](https://user-images.githubusercontent.com/84430867/124343653-cb73bc80-db92-11eb-907a-1271fbab8ada.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126586521-6df91d81-3c01-4bb8-800d-595e097bcbc8.png)
+
 </div>
 
 33. Repita el problema 31 para el circuito de la ﬁgura 9-91.
