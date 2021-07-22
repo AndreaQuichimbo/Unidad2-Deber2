@@ -334,7 +334,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
  
-** 9.5 Teorema de sustitución.**
+**9.5 Teorema de sustitución.**
 
 43- Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 Ω, determine la magnitud y la polaridad de la fuente de voltaje resultante.
 
@@ -348,7 +348,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>
   
-** 9.6 Teorema de Millman. **
+**9.6 Teorema de Millman.**
 
 45.- Use el teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
 
