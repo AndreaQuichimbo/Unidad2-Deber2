@@ -321,12 +321,20 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![2](https://user-images.githubusercontent.com/84587172/126638589-2ddd33ca-af91-448b-aa0a-3606f09dde4c.png)
 
   ![1](https://user-images.githubusercontent.com/84587172/126638633-4ff5d388-5b7a-4480-995a-e56e7bdb1640.png)
+ 
+</div>
+ 
+ 39.- 
 
-  
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587172/126638808-b15e2bf5-c2b5-4413-89e7-79df5d477945.png)
+
+![3](https://user-images.githubusercontent.com/84587172/126638868-71cdea3f-03f5-4012-9e15-e79194387999.png)
+
 </div>
   
-
-**9.6 Teorema de Millman.**
+** 9.6 Teorema de Millman. **
 
 45.- Use el teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
 
