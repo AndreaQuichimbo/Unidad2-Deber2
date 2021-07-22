@@ -29,9 +29,10 @@ Ing. Darwin Omar Alulema Flores
 # 1.OBJETIVOS
 
 - Objetivo General
+
 Comprender y analizar  el voltaje y corriente de capacitores para formas de onda simples que varían en el tiempo , de igual manera al leer el capítulo IX y X  determinar la energía almacenada, describir las fallas en capacitores y la solución de problemas básicos delos capacitores.
 
--Objetivos específicos
+- Objetivos específicos
 
 Describir las fallas en capacitores y la solución de problemas básicos delos capacitores  y analizar la distribución serie-paralelo de capacitores en un circuito.
 
