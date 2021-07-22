@@ -180,7 +180,7 @@ B. Use el circuito equivalente de Thévenin para de terminar la corriente a trav
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/126573904-39df13da-e645-4283-a04b-1cb2fdb4c72c.png)17. Vea el circuito de la ﬁgura 9-91:
+![image](https://user-images.githubusercontent.com/84430867/126573904-39df13da-e645-4283-a04b-1cb2fdb4c72c.png)
 
 </div>
 
