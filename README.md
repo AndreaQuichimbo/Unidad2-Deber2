@@ -168,17 +168,29 @@ B. Use el circuito equivalente de Thévenin para de terminar la corriente a trav
 
 15. Vea el circuito de la ﬁgura 9-89:
 
-A. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
-
-B. Use el circuito equivalente de Thévenin para de terminar la corriente a través de las ramas que se indican.
-
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/124220120-fb538f00-dac2-11eb-9211-46f1f0d8179c.png)
 
 </div>
 
-17. Vea el circuito de la ﬁgura 9-91:
+A. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+
+B. Use el circuito equivalente de Thévenin para de terminar la corriente a través de las ramas que se indican.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/126573904-39df13da-e645-4283-a04b-1cb2fdb4c72c.png)17. Vea el circuito de la ﬁgura 9-91:
+
+</div>
+
+17.	Vea el circuito de la figura 9-91:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/124221142-bfb9c480-dac4-11eb-87f9-cc2ec13d2f69.png)
+
+</div>
 
 A. Encuentre el circuito equivalente de THEV enin externo una R L.
 
@@ -186,7 +198,7 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/124221142-bfb9c480-dac4-11eb-87f9-cc2ec13d2f69.png)
+![image](https://user-images.githubusercontent.com/84430867/126574723-17d0f59b-969f-452b-9a97-ae39db1ef22b.png)
 
 </div>
 
@@ -229,6 +241,8 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/124343635-a2ebc280-db92-11eb-852a-aa5e9cb37508.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126575142-f110de9e-fa25-40b5-867d-f5de3696a404.png)
 
 </div>
 
