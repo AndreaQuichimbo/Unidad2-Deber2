@@ -216,6 +216,10 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
   
 ![image](https://user-images.githubusercontent.com/84430867/124221502-83d32f00-dac5-11eb-88f1-6a9cc5e44817.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126680692-3b618c39-8e2b-4b01-b46e-250c37d8d621.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126680739-d65a5e99-44fd-4b33-aefd-7479caf34420.png)
+
 </div>
 
 21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramasque se indican, como se muestra en la ﬁgura 9-95.
