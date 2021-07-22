@@ -28,6 +28,13 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+- Objetivo General
+Comprender y analizar  el voltaje y corriente de capacitores para formas de onda simples que varían en el tiempo , de igual manera al leer el capítulo IX y X  determinar la energía almacenada, describir las fallas en capacitores y la solución de problemas básicos delos capacitores.
+
+-Objetivos específicos
+
+Describir las fallas en capacitores y la solución de problemas básicos delos capacitores  y analizar la distribución serie-paralelo de capacitores en un circuito.
+
 # 2. MARCO TEORICO
 
 **CAPITULO IX**
@@ -585,6 +592,8 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+Se comprendió por qué un capacitor descargado parece como un cortocircuito cuando se energiza por primera vez, al entender el papel que desempeñan las constantes de tiempo en determinar la duración de los transitorios , existen varios capacitores cada uno hecho de diferentes materiales algunos más grandes que otros para almacenar mayor carga eléctrica, describir por qué un capacitor parece un circuito abierto en estado estable de cd, en un capacitador su capacitancia dependerá del dieléctrico que son materiales que no conducen la electricidad, por lo que pueden ser utilizados como aislantes y cada uno de estos tiene su constante dieléctrica.
 
 # 6. BIBLIOGRAFÍAS
 
