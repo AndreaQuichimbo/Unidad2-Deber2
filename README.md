@@ -333,7 +333,18 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 ![3](https://user-images.githubusercontent.com/84587172/126638868-71cdea3f-03f5-4012-9e15-e79194387999.png)
 
 </div>
+
+
+41-
+
+<div align="center">
+
+ ![image](https://user-images.githubusercontent.com/84587172/126678131-47b55742-569a-4977-a63d-4e874e2ec5d1.png)
  
+![1](https://user-images.githubusercontent.com/84587172/126678160-d20c34b9-3da9-4ad2-b62b-3c85a3d0e733.png)
+    
+</div>
+  
 **9.5 Teorema de sustitución.**
 
 43- Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 Ω, determine la magnitud y la polaridad de la fuente de voltaje resultante.
