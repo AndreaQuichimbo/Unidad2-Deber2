@@ -216,6 +216,8 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
   
 ![image](https://user-images.githubusercontent.com/84430867/124222242-fb558e00-dac6-11eb-8032-1a50db3966ea.png)
 
+![image](https://user-images.githubusercontent.com/84430867/126587031-72edec03-0843-43d5-a9f4-55d9874c1d42.png)
+
 </div>
 
 23. Repita el problema 22 para el circuito de la ﬁgura 9-97.
@@ -223,6 +225,8 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/124222530-88004c00-dac7-11eb-86c7-b57b67b216f1.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126587082-372c1c54-a376-40c8-91f6-8c4eca1ca4ac.png)
 
 </div>
 
@@ -233,6 +237,8 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/124342933-62d61100-db8d-11eb-9bef-fc7c8b7c303c.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126587175-8f56aecd-fd94-41ef-962a-b1dd5bb239d1.png)
 
 </div>
 
