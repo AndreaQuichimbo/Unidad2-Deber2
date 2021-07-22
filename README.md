@@ -634,6 +634,8 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 # 4. VIDEO
 
+https://youtu.be/cIu5xfUdjfk
+
 # 5. CONCLUSIONES
 
 Se comprendió por qué un capacitor descargado parece como un cortocircuito cuando se energiza por primera vez, al entender el papel que desempeñan las constantes de tiempo en determinar la duración de los transitorios , existen varios capacitores cada uno hecho de diferentes materiales algunos más grandes que otros para almacenar mayor carga eléctrica, describir por qué un capacitor parece un circuito abierto en estado estable de cd, en un capacitador su capacitancia dependerá del dieléctrico que son materiales que no conducen la electricidad, por lo que pueden ser utilizados como aislantes y cada uno de estos tiene su constante dieléctrica.
