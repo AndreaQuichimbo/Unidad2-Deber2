@@ -248,13 +248,19 @@ B. Use el circuito equivalente lente de Thévenin para encontrar la corriente I 
 
 29. Vea el circuito de la ﬁgura 9-85:
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/124343646-b8f98300-db92-11eb-8bab-d0bd308dd127.png)
+
+</div>
+
 a. Encuentre el circuito equivalente de Norton externo a R L.
 
 b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ ycuando RL = 50 kΩ.
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/124343646-b8f98300-db92-11eb-8bab-d0bd308dd127.png)
+![image](https://user-images.githubusercontent.com/84430867/126585707-e80cd577-bbb7-482d-b707-9a6002d75888.png)
 
 </div>
 
