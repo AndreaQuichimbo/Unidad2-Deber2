@@ -555,7 +555,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>    
   
-33. Se tienen capacitores de 22,47,2.2 y 10  F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted preﬁera?,¿y la más pequeña?
+33. Se tienen capacitores de 22,47,2.2 y 10 µF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted preﬁera?,¿y la más pequeña?
 
 <div align="center">
 
@@ -563,7 +563,7 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 </div>    
   
-35. Considere capacitores de 1,1.5 y 10 µF. Si C T  10-6  µF,¿cómo están conectados los capacitores?
+35. Considere capacitores de 1,1.5 y 10 µF. Si CT = 10.6 µF,¿cómo están conectados los capacitores?
 
 <div align="center">
 
